@@ -355,8 +355,8 @@
 
 <script type="text/javascript">
 	
-	var sent_audio = new Audio("message_sent.mp3");
-	var received_audio = new Audio("message_received.mp3");
+	var sent_audio = new Audio("send.mp3");
+	var received_audio = new Audio("receive.mp3");
 
 	var CURRENT_CHAT_USER = "";
 	var SEEN_STATUS = false;
